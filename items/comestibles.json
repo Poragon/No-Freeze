@@ -1609,13 +1609,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "lasagne_cooked",
-    "name": "boiled lasagne",
-	"copy-from": "lasagne_cooked",
-	"freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "macaroni_raw",
     "name": "raw macaroni",
     "name_plural": "raw macaroni",
