@@ -2078,14 +2078,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "potato_raw",
-    "name": "raw potato",
-    "name_plural": "raw potatoes",
-    "copy-from": "potato_raw",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "pumpkin",
     "name": "pumpkin",
     "copy-from": "pumpkin",
@@ -3833,14 +3825,6 @@
     "id": "irradiated_pumpkin",
     "name": "irradiated pumpkin",
     "copy-from": "irradiated_pumpkin",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "potato_irradiated",
-    "name": "irradiated potato",
-    "name_plural": "irradiated potatoes",
-    "copy-from": "potato_irradiated",
     "freezing_point": -1000
   },
   {
