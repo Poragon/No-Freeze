@@ -1551,20 +1551,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "frozen_burrito",
-    "name": "uncooked burrito",
-    "copy-from": "frozen_burrito",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "cooked_burrito",
-    "name": "cooked burrito",
-    "copy-from": "cooked_burrito",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "spaghetti_raw",
     "name": "raw spaghetti",
     "name_plural": "raw spaghetti",
