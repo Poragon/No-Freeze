@@ -129,14 +129,6 @@
 	"freezing_point": -1000
   },
   {
-    "id": "jerky_human",
-    "type": "COMESTIBLE",
-    "name": "jerk jerky",
-    "name_plural": "jerk jerky",
-    "copy-from": "jerky_human",
-	"freezing_point": -1000
-  },
-  {
     "id": "meat_smoked",
     "type": "COMESTIBLE",
     "name": "smoked meat",
