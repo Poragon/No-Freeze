@@ -3418,14 +3418,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "nachoshc",
-    "name": "niño nachos with cheese",
-    "name_plural": "niño nachos with cheese",
-    "copy-from": "nachoshc",
-    "freezing_point": -1000
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "lard",
     "name": "lard",
     "copy-from": "lard",
