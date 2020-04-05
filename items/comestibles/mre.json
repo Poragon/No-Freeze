@@ -1,5 +1,11 @@
 [
-{
+  {
+    "abstract": "mre_entree",
+    "type": "COMESTIBLE",
+    "name": { "str": "MRE entree" },
+    "freezing_point": -1000
+  },
+  {
     "type": "COMESTIBLE",
     "id": "mre_chilibeans",
     "copy-from": "mre_chilibeans",
@@ -10,7 +16,7 @@
     "type": "COMESTIBLE",
     "id": "mre_bbqbeef",
     "copy-from": "mre_bbqbeef",
-    "name": "BBQ beef entree",
+    "name": { "str": "BBQ beef entree" },
     "freezing_point": -1000
   },
   {
@@ -38,14 +44,14 @@
     "type": "COMESTIBLE",
     "id": "mre_beeftaco",
     "copy-from": "mre_beeftaco",
-    "name": "beef taco entree",
+    "name": { "str": "beef taco entree" },
     "freezing_point": -1000
   },
   {
     "type": "COMESTIBLE",
     "id": "mre_beef",
     "copy-from": "mre_beef",
-    "name": "beef brisket entree",
+    "name": { "str": "beef brisket entree" },
     "freezing_point": -1000
   },
   {
@@ -59,7 +65,7 @@
     "type": "COMESTIBLE",
     "id": "mre_beefstew",
     "copy-from": "mre_beefstew",
-    "name": "beef stew entree",
+    "name": { "str": "beef stew entree" },
     "freezing_point": -1000
   },
   {
@@ -101,7 +107,7 @@
     "type": "COMESTIBLE",
     "id": "mre_mexicanchickenstew",
     "copy-from": "mre_mexicanchickenstew",
-    "name": "mexican chicken stew entree",
+    "name": { "str": "Mexican chicken stew entree" },
     "freezing_point": -1000
   },
   {
@@ -150,7 +156,7 @@
     "type": "COMESTIBLE",
     "id": "mre_asianbeef",
     "copy-from": "mre_asianbeef",
-    "name": "asian beef & vegetables entree",
+    "name": { "str": "asian beef & vegetables entree" },
     "freezing_point": -1000
   },
   {
