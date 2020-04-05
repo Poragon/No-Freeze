@@ -1,0 +1,10 @@
+[
+  {
+    "id": "water",
+    "copy-from": "water",
+    "type": "COMESTIBLE",
+    "name": "water",
+    "name_plural": "water",
+	"freezing_point": -1000
+  }
+]
